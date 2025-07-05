@@ -135,7 +135,7 @@ logs/
 *.gz
 
 # data file
-.csv
-.tsv
-.json
+*.csv
+*.tsv
+*.json
 data
