@@ -1,2 +1,0 @@
-# kaggle_notebooks
-kaggleのノートを保管するリポジトリ
