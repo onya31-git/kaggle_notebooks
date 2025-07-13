@@ -138,4 +138,5 @@ logs/
 *.csv
 *.tsv
 *.json
+*.yaml
 data
